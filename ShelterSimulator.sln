@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShelterSimulator", "ShelterSimulator\ShelterSimulator.csproj", "{B69943F6-CE83-45A2-8B5D-66BA1DFAE289}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C3353906-78B3-48E3-B9FA-1CE71484A0A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69943F6-CE83-45A2-8B5D-66BA1DFAE289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69943F6-CE83-45A2-8B5D-66BA1DFAE289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69943F6-CE83-45A2-8B5D-66BA1DFAE289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69943F6-CE83-45A2-8B5D-66BA1DFAE289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA3A463-AF3C-4D1E-86D8-2AC3CDB1F222}
+	EndGlobalSection
+EndGlobal
