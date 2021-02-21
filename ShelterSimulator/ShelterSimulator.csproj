@@ -6,12 +6,23 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
-    <Folder Include="Models\Dog\" />
     <Folder Include="Models\Animal\" />
     <Folder Include="Models\Person\" />
-    <Folder Include="Models\Staff\" />
-    <Folder Include="Models\Staff\Volunteer\" />
-    <Folder Include="Models\Staff\Vet\" />
-    <Folder Include="Models\Staff\Manager\" />
+    <Folder Include="Models\Person\Staff\" />
+    <Folder Include="Models\Person\Staff\Veterinarian\" />
+    <Folder Include="Models\Person\Staff\OnsiteVolunteer\" />
+    <Folder Include="Models\Person\Staff\OnsiteManager\" />
+    <Folder Include="Models\Intake\" />
+    <Folder Include="Models\Intake\IntakeShelterAnimal\" />
+    <Folder Include="Models\Shelter\" />
+    <Folder Include="Models\Location\" />
+    <Folder Include="Models\Location\Building\" />
+    <Folder Include="Models\Location\Home\" />
+    <Folder Include="Models\Intake\IntakeDog\" />
+    <Folder Include="Models\Animal\Dog\" />
+    <Folder Include="Models\Animal\ShelterAnimal\" />
+    <Folder Include="Models\Person\Adopter\" />
+    <Folder Include="Models\Intake\IntakeCat\" />
+    <Folder Include="Models\ShelterDatabase\" />
   </ItemGroup>
 </Project>
