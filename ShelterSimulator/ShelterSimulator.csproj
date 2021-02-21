@@ -24,5 +24,10 @@
     <Folder Include="Models\Person\Adopter\" />
     <Folder Include="Models\Intake\IntakeCat\" />
     <Folder Include="Models\ShelterDatabase\" />
+    <Folder Include="Areas\" />
+    <Folder Include="Areas\Intake\" />
+    <Folder Include="Areas\PlaceAnimal\" />
+    <Folder Include="Areas\Adoption\" />
+    <Folder Include="Models\Animal\DogScore\" />
   </ItemGroup>
 </Project>
